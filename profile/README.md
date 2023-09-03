@@ -19,3 +19,5 @@ We are Glacier. We make stuff, occasionally.
 ## Also check out!
 * [DOOM: HELL UNLEASHED](https://www.doomworld.com/forum/topic/118564-doom-hell-unleashed-episode-1-plutonia-inspired-wad-first-wad-project/)
   - Hellish trip to a hell castle. The perfect vacation spot. Complete with Quad Damages, Arch-Viles, and Quake 2 music.
+* [Spider's Delight](https://twitter.com/WalrusJakie/status/1698433728169886176?s=20)
+  - I can't believe it's not the Build Engine!
